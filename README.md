@@ -28,9 +28,8 @@ For those concerned with privacy, **Aurora Store** does not require Google's pro
 
 ## Downloads 🍟
 
-Please, only download the latest stable releases from GitHub or one of these sources:
+Please, only download the latest stable releases from one of these sources:
 
-- GitHub: [Releases](https://github.com/sorydima/Aurora/-/releases) 
 - AuroraOSS: [Downloads](https://auroraoss.com/AuroraStore/)
 - AuroraOSS: [Stable](https://auroraoss.com/AuroraStore/Stable/)
 
