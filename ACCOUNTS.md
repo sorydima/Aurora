@@ -22,5 +22,3 @@
 - Create a new account
 - Generate the AAS Token
 - Share the Email + AAS Token (no password required) with the Aurora OSS Team
-   - Share it directly to dev [here](https://t.me/whyorean) 
-   - Share it with team (admins & mods) [here](https://t.me/AuroraSupport)

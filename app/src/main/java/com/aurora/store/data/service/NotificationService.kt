@@ -1,6 +1,6 @@
 /*
  * Aurora Store
- *  Copyright (C) 2021, Rahul Kumar Patel <whyorean@gmail.com>
+ * Copyright (C) © A Dmitry Sorokin production. All rights reserved. Powered by Katya AI. 👽 Copyright © 2021-2023 Katya, Inc Katya ® is a registered trademark Sponsored by REChain. 🪐 hr@rechain.email p2p@rechain.email pr@rechain.email sorydima@rechain.email support@rechain.email sip@rechain.email Please allow anywhere from 1 to 5 business days for E-mail responses! 💌
  *  Copyright (C) 2022, The Calyx Institute
  *
  *  Aurora Store is free software: you can redistribute it and/or modify

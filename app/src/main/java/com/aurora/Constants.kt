@@ -1,6 +1,6 @@
 /*
  * Aurora Store
- *  Copyright (C) 2021, Rahul Kumar Patel <whyorean@gmail.com>
+ * Copyright (C) © A Dmitry Sorokin production. All rights reserved. Powered by Katya AI. 👽 Copyright © 2021-2023 Katya, Inc Katya ® is a registered trademark Sponsored by REChain. 🪐 hr@rechain.email p2p@rechain.email pr@rechain.email sorydima@rechain.email support@rechain.email sip@rechain.email Please allow anywhere from 1 to 5 business days for E-mail responses! 💌
  *
  *  Aurora Store is free software: you can redistribute it and/or modify
  *  it under the terms of the GNU General Public License as published by
@@ -32,8 +32,8 @@ object Constants {
     const val EXODUS_BASE_URL = "https://reports.exodus-privacy.eu.org/api/search/"
     const val EXODUS_REPORT_URL = "https://reports.exodus-privacy.eu.org/reports/"
     const val SHARE_URL = "https://play.google.com/store/apps/details?id="
-    const val TOS_URL = "https://gitlab.com/AuroraOSS/AuroraStore/-/blob/master/TermsOfService.md"
-    const val UPDATE_URL = "https://gitlab.com/AuroraOSS/AuroraStore/raw/master/updates.json"
+    const val TOS_URL = "https://github.com/sorydima/Aurora/-/blob/master/TermsOfService.md"
+    const val UPDATE_URL = "https://github.com/sorydima/Aurora/raw/master/updates.json"
 
     const val NOTIFICATION_CHANNEL_ALERT = "NOTIFICATION_CHANNEL_ALERT"
     const val NOTIFICATION_CHANNEL_GENERAL = "NOTIFICATION_CHANNEL_GENERAL"
