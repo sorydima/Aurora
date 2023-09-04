@@ -18,7 +18,7 @@ If you continue to use the Service after the revised Terms go into effect, then 
 
 ## Privacy Policy
 
-We have a privacy policy covering the collection, use, and disclosure of user information, which can be found at **https://gitlab.com/AuroraOSS/AuroraStore/-/blob/master/POLICY.md**.
+We have a privacy policy covering the collection, use, and disclosure of user information, which can be found at **https://github.com/sorydima/Aurora/-/blob/master/POLICY.md**.
 
 ## Copyright Policy
 
@@ -26,7 +26,7 @@ We take intellectual property rights seriously, and by using a copyright policy 
 
 ## Disclaimer
 
-We have a disclaimer covering the use of our Service and the content within **Aurora Store**, which can be found at **https://gitlab.com/AuroraOSS/AuroraStore/-/blob/master/DISCLAIMER.md**
+We have a disclaimer covering the use of our Service and the content within **Aurora Store**, which can be found at **https://github.com/sorydima/Aurora/-/blob/master/DISCLAIMER.md**
 
 ## Third-Party Services
 
@@ -67,3 +67,5 @@ If you discover or suspect any Service security breaches, please let us know as 
 ## Questions & Contact Information
 
 Questions or comments about the Service may be directed to us at the email address **auroraoss.dev@gmail.com**.
+
+### © A Dmitry Sorokin production. All rights reserved. Powered by Katya AI. 👽 Copyright © 2021-2023 Katya, Inc Katya ® is a registered trademark Sponsored by REChain. 🪐 hr@rechain.email p2p@rechain.email pr@rechain.email sorydima@rechain.email support@rechain.email sip@rechain.email Please allow anywhere from 1 to 5 business days for E-mail responses! 💌

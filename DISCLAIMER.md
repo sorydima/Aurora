@@ -31,10 +31,8 @@ You are to hold yourself responsible by installing **Aurora Store** from other s
 
 The following sources are the only official links we provide:
 
-- **F-Droid:** https://f-droid.org/en/packages/com.aurora.store/
 - **AuroraOSS Website:** https://auroraoss.com/downloads.php
-- **Official Telegram Channel:** https://t.me/AuroraOfficial
-- **GitLab:** https://gitlab.com/AuroraOSS/AuroraStore/-/releases
+- **GitHub:** https://github.com/sorydima/Aurora
 
 ### 3. Links in Aurora Store
 
@@ -43,10 +41,8 @@ The following sources are the only official links we provide:
 The only links we provide are:
 
 - **Donation links** Bitcoin, Bitcoin Cash, Etherum, BHIM-UPI, PayPal & Liberapay links
-- **Repository sources** GitLab repository link
+- **Repository sources** GitHub repository link
 - **xda-developers** Aurora Store xda-developers thread
-- **Telegram** Aurora Support group link
-- **F-Droid** Aurora Store in F-Droid repository link
 
 ### 4. Content
 

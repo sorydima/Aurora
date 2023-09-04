@@ -34,4 +34,6 @@ We may update our Privacy Policy from time to time. You are thus advised to revi
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at **aurora.dev@gmail.com** or via our support groups on Telegram.
+If you have any questions about this Privacy Policy, please contact us at **aurora.dev@gmail.com** 
+
+### Aurora Store 📺 focused on security, minimalism and usability. Our app store is currently being used to distribute our own apps and the Google Play mirror for isolated download functionality of all apps that are available on the Google Play Market. In the future, it will be used for the possible distribution of builds of Katya ® 👽 Mobile OS. 🔭

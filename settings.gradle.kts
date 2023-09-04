@@ -1,6 +1,6 @@
 /*
  * Aurora Store
- *  Copyright (C) 2021, Rahul Kumar Patel <whyorean@gmail.com>
+ * Copyright (C) Aurora Store 📺 focused on security, minimalism and usability. Our app store is currently being used to distribute our own apps and the Google Play mirror for isolated download functionality of all apps that are available on the Google Play Market. In the future, it will be used for the possible distribution of builds of Katya ® 👽 Mobile OS. 🔭
  *  Copyright (C) 2022, The Calyx Institute
  *
  *  Aurora Store is free software: you can redistribute it and/or modify
