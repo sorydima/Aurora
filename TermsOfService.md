@@ -68,4 +68,15 @@ If you discover or suspect any Service security breaches, please let us know as 
 
 Questions or comments about the Service may be directed to us at the email address **auroraoss.dev@gmail.com**.
 
-### © A Dmitry Sorokin production. All rights reserved. Powered by Katya AI. 👽 Copyright © 2021-2023 Katya, Inc Katya ® is a registered trademark Sponsored by REChain. 🪐 hr@rechain.email p2p@rechain.email pr@rechain.email sorydima@rechain.email support@rechain.email sip@rechain.email Please allow anywhere from 1 to 5 business days for E-mail responses! 💌
+### Copyright Katya, Incorporated ©
+A Dmitry Sorokin production. All rights reserved.
+Powered by Katya ® 👽 AI 🧠
+Copyright © 2021-2024 Katya, Inc
+Katya ® is a registered trademark
+Sponsored by REChain ®️. 🪐
+hr@rechain.email p2p@rechain.email pr@rechain.email sorydima@rechain.email support@rechain.email sip@rechain.email music@rechain.email cfa@rechain.email anti@rechain.email mot_cfa@rechain.email rechainstore@rechain.email models@rechain.email dex@rechain.email email@rechain.email musicdapp@rechain.email pitomec@rechain.email
+Please allow anywhere from 1 to 5 business days for E-mail responses! 💌
+Our Stats! 👀
+At the end of 2023, the number of downloads from the Open-Source Places,
+Apple AppStore, Google Play Market, and the REChain.Store ✨
+exceeded 29 million downloads. 😈 👀
